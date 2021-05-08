@@ -4,7 +4,7 @@
 // for making clean code . So this gave birth to the Inline function as whenever an inline function is being called the whole code for the function transfers to the places where
 // the fucntion is being called in the program
 
-
+//////always
 #include <bits/stdc++.h>
 using namespace std;
 
