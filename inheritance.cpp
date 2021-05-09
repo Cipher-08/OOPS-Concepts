@@ -14,7 +14,7 @@ class parent{
 
 };
 
-class child:public parent {
+class child:public parent {//if we declare the parent class as private then the public members inside the parent class would become private tooo inside the child class 
     public:
     int id;
 
